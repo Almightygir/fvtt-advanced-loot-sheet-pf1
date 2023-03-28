@@ -1,5 +1,9 @@
 [![](https://img.shields.io/badge/Foundry-v0.9.0-informational)]()[![download_count](https://img.shields.io/github/downloads/Almightygir/fvtt-loot-sheet-npc-pf1/total.svg)]()[![Donate](https://img.shields.io/badge/Donate-BuyMeACoffee-green.svg)](https://ko-fi.com/almighty_gir)
 
+# THIS MODULE IS NOW DISCONTINUED, AND IS UNSUPPORTED IN FOUNDRY V10+
+As a lot of the functionality for this module has been added directly to the PF1e system, there is no further need for me to support this modules development.
+Thank you for using it while it lasted!
+
 # Loot Sheet NPC Pathfinder1
 This module adds an additional NPC sheet which can be used for loot containers such as chests. It also allows spells to be automatically converted into spell scrolls by dragging them onto this sheet.
 
